@@ -1,6 +1,6 @@
 # 🤖 Jarvis – Telegram Remote System Assistant
 
-![This is Jarvis!](https://github.com/Artin-khodayari/Jarvis-bot/assets/Jarvis.jpg)
+![This is Jarvis!]([https://github.com/Artin-khodayari/Jarvis-bot/assets/Jarvis.jpg](https://github.com/Artin-khodayari/Jarvis-bot/blob/main/assets/Jarvis.jpg))
 
 Your **private remote-control bot** for Windows & Linux, powered by Telegram.  
 Jarvis listens only to you, and turns chat commands into **system actions, UI automation, and desktop notifications**.  
