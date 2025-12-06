@@ -88,7 +88,10 @@ Jarvis will greet you with:
 | /wake               | Wake display               |
 | /move <x> <y>       | Move cursor                |
 | /click <type>       | Mouse click                |
-| Types of /click > left - right - double          |
+- Types of /click left :
+  - left
+  - right
+  - double
 
 ---
 
