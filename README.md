@@ -77,18 +77,18 @@ Jarvis will greet you with:
 
 ## 🧩 Command Cheat Sheet
 
-| Command             | Action                   | OS                       |
-|--------------------|-------------------------|
-| /screenshot         | Capture screen |
-| /programs           | List open apps |
-| /chrometabs         | List Chrome tabs |
-| /shutdown           | Schedule shutdown |
-| /cancelshutdown     | Cancel shutdown |
-| /lock               | Lock session |
-| /wake               | Wake display|
-| /move <x> <y>           | Move cursor |
-| /click <type>         | Mouse click |
-| Types of /click > left - right - double|
+| Command             | Action                     |
+|---------------------|----------------------------|
+| /screenshot         | Capture screen             |
+| /programs           | List open apps             |
+| /chrometabs         | List Chrome tabs           |
+| /shutdown           | Schedule shutdown          |
+| /cancelshutdown     | Cancel shutdown            |
+| /lock               | Lock session               |
+| /wake               | Wake display               |
+| /move <x> <y>       | Move cursor                |
+| /click <type>       | Mouse click                |
+| Types of /click > left - right - double          |
 
 ---
 
